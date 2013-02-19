@@ -54,7 +54,6 @@ module Fog
 
     end
   end
-
 end
 
 require 'fog/bin/atmos'
